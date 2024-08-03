@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.cbb4883d.css",
-    "main.js": "/static/js/main.e7065f28.js",
+    "main.js": "/static/js/main.26cc570e.js",
     "static/media/Roboto.ttf": "/static/media/Roboto.33c6cdbc694881567da1.ttf",
     "static/media/Rostov.ttf": "/static/media/Rostov.f74e6a0a9605f693437c.ttf",
     "static/media/people.svg": "/static/media/people.0a3349f959e06c40eb84.svg",
     "index.html": "/index.html",
     "main.cbb4883d.css.map": "/static/css/main.cbb4883d.css.map",
-    "main.e7065f28.js.map": "/static/js/main.e7065f28.js.map"
+    "main.26cc570e.js.map": "/static/js/main.26cc570e.js.map"
   },
   "entrypoints": [
     "static/css/main.cbb4883d.css",
-    "static/js/main.e7065f28.js"
+    "static/js/main.26cc570e.js"
   ]
 }
